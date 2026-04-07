@@ -1,4 +1,4 @@
-<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/0ac201ce-1e36-4bbc-82d2-0abc2ca07d60" /># AST_to_DFD
+# AST_to_DFD
 
 ## 1. Install Neo4J
 + OpenJDK, OpenJRE 21 설치
